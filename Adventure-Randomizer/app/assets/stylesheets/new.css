@@ -1,0 +1,88 @@
+.main{
+	background-color: rgba(85, 187, 170, 0.5);
+	padding: 7%;
+	padding-top: 1;
+}
+.top-header{
+    background-color: rgba(0,0,0,0.5);
+    padding-top:1px;
+    padding-bottom:10px;
+    margin-bottom:-5px;
+    font-size: 20px;
+}
+#fter{
+	background-color: rgba(0,0,0,0.5);
+	padding-top: 5px;
+	color: white;
+}
+#lr{
+	margin-bottom: -1.5em;
+	position: relative;
+    top: -40px;
+}
+.lr{
+	margin-bottom: -1.5em;
+	position: relative;
+    top: -40px;
+}
+.big{
+	color:white;
+	text-align:center;
+	position:relative;
+	top:3em;
+}
+.bar{
+	border: 2px solid white;
+}
+.h2head{
+	padding-top: 0.2em;
+}
+.main-directions{
+	background-color: rgba(34, 58, 54, 0.8);
+	padding: 7%;
+	padding-top: 1%;
+}
+.big-directions{
+	background-color: rgba(34, 58, 54, 0.8)
+	color: white;
+	position: relative;
+	top:3em;
+}
+.body-background{
+	background-size: cover;
+	padding-bottom: 18%;
+}
+.big-form{
+	color:white;
+	text-align:center;
+	position:relative;
+	top:1em;
+}
+.hint{
+	padding-bottom: 1%;
+}
+.turn-directions{
+	padding-top: 2%;
+}
+#tag-line{
+	background-color: #223A36;
+    font-size: 25px;
+    padding: 10px;
+    color: #00C0AC;
+}
+.form-group{
+	    color: #223A36;
+	    margin-left: 25%;
+	    margin-right: 25%;
+}
+#left-bar{
+	background-color: rgba(34, 58, 54, 0.8);
+	padding-top: 2%;
+	padding-left: 3%;
+	padding-bottom: 23%;
+	margin-top: 10px;
+	color: white;
+}
+label{
+	    color: white;
+}

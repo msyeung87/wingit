@@ -1,0 +1,199 @@
+.main{
+	background-color: rgba(85, 187, 170, 0.5);
+	padding: 7%;
+	padding-top: 1;
+}
+
+.big{
+	color:white;
+	text-align:center;
+	position:relative;
+	top:3em;
+}
+.bar{
+	border: 2px solid white;
+}
+.h2head{
+	padding-top: 0.2em;
+}
+.main-directions{
+	background-color: rgba(34, 58, 54, 0.8);
+	padding: 7%;
+	padding-top: 1%;
+}
+.big-directions{
+	background-color: rgba(34, 58, 54, 0.8)
+	color: white;
+	position: relative;
+	top:3em;
+}
+.body-background{
+	background-size: cover;
+	padding-bottom: 18%;
+}
+.big-form{
+	color:white;
+	text-align:center;
+	position:relative;
+	top:1em;
+}
+.hint{
+	padding-bottom: 1%;
+}
+.turn-directions{
+	padding-top: 2%;
+}
+#tag-line{
+	background-color: #223A36;
+    font-size: 25px;
+    padding: 10px;
+    color: #00C0AC;
+}
+
+.pass{
+		/*padding-top: 3px;*/
+	    /*margin-right: 0.4em;*/
+}
+
+.form-group{
+	    color: #223A36;
+	    margin-left: 25%;
+	    margin-right: 25%;
+}
+
+
+label{
+	    color: white;
+}
+
+#left-bar{
+	/*background-color: rgba(85, 187, 170, 0.5);*/
+	background-color: rgba(34, 58, 54, 0.8);
+	/*padding: 7%;*/
+	padding-top: 2%;
+	padding-left: 3%;
+	padding-bottom: 23%;
+}
+
+video#bgvid { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover; 
+}
+
+
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+
+
+
+ */
+
+
+ 
+body{
+	color: #16a085;
+	font-family: Montserrat;
+}
+
+a{
+	color: #55bbaa;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+	color:white;
+}
+
+#main{
+	animation-delay: 2s;
+}
+
+#mainone{
+	animation-delay: 5s;
+}
+
+.main-butt{
+	text-align: center;
+}
+.main-logout{
+	text-align: center;
+	display: inline-block;
+	padding-top: 6%;
+	padding-left: 10%;
+}
+
+
+.header{
+	padding-bottom: 2%;
+	background-color: rgba(34, 58, 54, 1);
+	border-bottom: 5px solid #55bbaa;
+}
+
+.footer{
+	background-color: rgba(34, 58, 54, 1);
+	border-top: 5px solid #55bbaa;
+	text-align: center;
+	padding-top:0.5%;
+}
+
+#lr{
+	margin-bottom: -1.5em;
+	position: relative;
+    top: 20px;
+}
+
+#copyright{
+	color:white;
+}
+
+#logo{
+	    margin: auto;
+	    position: relative;
+    	top: 4px;
+}
+
+
+video#bgvid { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover; 
+}
+
+
+
+
+
+
+
